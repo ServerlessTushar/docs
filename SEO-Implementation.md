@@ -1,6 +1,6 @@
 # SEO Implementation Documentation - BabyMD
 
-This document outlines the SEO strategies and technical implementations currently in place for the BabyMD Next.js project.
+This document outlines the SEO strategies & technical implementations currently in place for the BabyMD Next.js project.
 
 ## 1. Metadata Management
 The project utilizes the Next.js `Metadata` API for both global and page-specific SEO tags.
